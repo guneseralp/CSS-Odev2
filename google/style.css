@@ -1,0 +1,35 @@
+img{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+.first{
+    display: block;
+    text-align: center;
+    background-color: lightgray;
+}
+p{
+    margin: 0;
+}
+.d{
+    text-align: center;
+    font-size: small;
+}
+.column{
+    display: block;
+    text-align: center;
+    margin-right: 2px;
+    margin-top: 2px;
+    width: 33.1%;
+    float: left;
+}
+.bg_one{
+    background-color: #7ee5da;
+}
+.bg_two{
+    background-color: #70ccc2;
+}
+.bg_three{
+    background-color: #62b3aa;
+}
